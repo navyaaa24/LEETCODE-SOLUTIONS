@@ -24,6 +24,7 @@
 | [0326-power-of-three](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0507-perfect-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2169-count-operations-to-obtain-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
