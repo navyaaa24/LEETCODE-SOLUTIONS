@@ -15,5 +15,10 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0507-perfect-number) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
