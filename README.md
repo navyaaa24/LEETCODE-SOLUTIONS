@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
+| [0283-move-zeroes](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
