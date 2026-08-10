@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
