@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
@@ -29,6 +30,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 ## Number Theory
 |  |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
