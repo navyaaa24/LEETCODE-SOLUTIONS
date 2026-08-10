@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2169-count-operations-to-obtain-zero) |
 ## Recursion
@@ -32,6 +33,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -68,4 +70,12 @@
 | ------- |
 | [0258-add-digits](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2169-count-operations-to-obtain-zero) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
