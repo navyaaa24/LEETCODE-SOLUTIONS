@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
@@ -71,6 +72,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 ## Sorting
 |  |
