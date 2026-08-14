@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
