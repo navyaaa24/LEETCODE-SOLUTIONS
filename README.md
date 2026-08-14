@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 ## Math
