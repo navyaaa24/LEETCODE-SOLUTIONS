@@ -14,6 +14,7 @@
 | [0704-binary-search](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0162-find-peak-element](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
+| [3477-fruits-into-baskets-ii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [0258-add-digits](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [2169-count-operations-to-obtain-zero](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2169-count-operations-to-obtain-zero) |
+| [3477-fruits-into-baskets-ii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,4 +99,12 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
