@@ -67,6 +67,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
+| [1768-merge-strings-alternately](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
