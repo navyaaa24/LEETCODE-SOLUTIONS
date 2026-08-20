@@ -42,6 +42,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2169-count-operations-to-obtain-zero) |
+| [2469-convert-the-temperature](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
 ## Recursion
 |  |
 | ------- |
