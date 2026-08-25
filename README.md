@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -35,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0263-ugly-number) |
@@ -73,6 +75,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
