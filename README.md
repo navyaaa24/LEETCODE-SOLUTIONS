@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
@@ -117,6 +118,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -166,4 +168,8 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
