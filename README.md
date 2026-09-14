@@ -52,6 +52,7 @@
 | [0507-perfect-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2235-add-two-integers) |
