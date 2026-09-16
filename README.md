@@ -32,6 +32,7 @@
 | [1929-concatenation-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
