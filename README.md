@@ -27,6 +27,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -59,6 +60,7 @@
 | [0509-fibonacci-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2235-add-two-integers) |
@@ -115,6 +117,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
