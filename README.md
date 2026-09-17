@@ -29,6 +29,7 @@
 | [1470-shuffle-the-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
+| [1652-defuse-the-bomb](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1652-defuse-the-bomb) |
 | [1920-build-array-from-permutation](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -201,6 +202,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1652-defuse-the-bomb) |
 ## Divide and Conquer
 |  |
 | ------- |
