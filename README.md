@@ -25,6 +25,7 @@
 | [0704-binary-search](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1470-shuffle-the-array) |
@@ -107,6 +108,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
@@ -135,6 +137,7 @@
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
