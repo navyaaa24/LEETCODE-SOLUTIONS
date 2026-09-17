@@ -140,6 +140,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1859-sorting-the-sentence](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1859-sorting-the-sentence) |
 ## Simulation
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
+| [1859-sorting-the-sentence](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1859-sorting-the-sentence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -221,4 +223,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
