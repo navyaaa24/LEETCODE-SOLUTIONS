@@ -19,6 +19,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
@@ -227,4 +229,8 @@
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1859-sorting-the-sentence) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
