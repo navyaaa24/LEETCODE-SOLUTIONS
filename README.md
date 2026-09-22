@@ -127,6 +127,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -137,6 +138,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
@@ -170,6 +172,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
