@@ -108,6 +108,7 @@
 | [0283-move-zeroes](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0821-shortest-distance-to-a-character](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
@@ -161,6 +162,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -175,6 +177,7 @@
 | [0242-valid-anagram](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
