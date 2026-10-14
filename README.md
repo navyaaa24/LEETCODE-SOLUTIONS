@@ -72,6 +72,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
+| [1922-count-good-numbers](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2235-add-two-integers) |
@@ -85,6 +86,7 @@
 | [0326-power-of-three](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1922-count-good-numbers) |
 ## Number Theory
 |  |
 | ------- |
