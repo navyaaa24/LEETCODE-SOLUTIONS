@@ -28,6 +28,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -151,6 +152,7 @@
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -200,6 +202,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Segment Tree
 |  |
@@ -214,6 +217,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+| [0912-sort-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 ## Greedy
@@ -240,6 +244,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0912-sort-an-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -260,4 +265,16 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
