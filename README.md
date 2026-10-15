@@ -41,6 +41,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -143,6 +144,7 @@
 | [0904-fruit-into-baskets](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -207,6 +209,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -277,4 +280,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0912-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
