@@ -24,6 +24,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
@@ -167,6 +168,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2169-count-operations-to-obtain-zero) |
@@ -287,4 +289,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
