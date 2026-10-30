@@ -55,6 +55,7 @@
 | [0162-find-peak-element](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
@@ -71,6 +72,7 @@
 | [0268-missing-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
