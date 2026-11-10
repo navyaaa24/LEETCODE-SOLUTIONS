@@ -26,6 +26,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0706-design-hashmap) |
 | [0821-shortest-distance-to-a-character](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
@@ -154,6 +155,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0706-design-hashmap](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
@@ -280,6 +282,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
+| [0706-design-hashmap](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -319,8 +322,13 @@
 | [0203-remove-linked-list-elements](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [0706-design-hashmap](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0706-design-hashmap) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
