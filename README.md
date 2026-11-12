@@ -79,6 +79,7 @@
 | [0509-fibonacci-number](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1922-count-good-numbers](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -325,6 +326,7 @@
 | [0234-palindrome-linked-list](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
