@@ -188,6 +188,7 @@
 | [1920-build-array-from-permutation](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2169-count-operations-to-obtain-zero) |
+| [2390-removing-stars-from-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 ## Dynamic Programming
@@ -224,6 +225,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1859-sorting-the-sentence) |
+| [2390-removing-stars-from-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -315,6 +317,7 @@
 | [0234-palindrome-linked-list](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
