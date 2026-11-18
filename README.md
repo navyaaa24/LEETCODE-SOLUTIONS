@@ -131,6 +131,7 @@
 | [0392-is-subsequence](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0821-shortest-distance-to-a-character](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
@@ -183,6 +184,7 @@
 | [0258-add-digits](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2169-count-operations-to-obtain-zero) |
@@ -218,6 +220,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0821-shortest-distance-to-a-character](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1859-sorting-the-sentence) |
@@ -311,6 +314,7 @@
 | [0020-valid-parentheses](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
