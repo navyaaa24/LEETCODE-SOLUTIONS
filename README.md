@@ -291,12 +291,14 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0706-design-hashmap](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 ## Merge Sort
 |  |
@@ -319,6 +321,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
