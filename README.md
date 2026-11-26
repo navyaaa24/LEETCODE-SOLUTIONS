@@ -39,6 +39,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1652-defuse-the-bomb) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -187,6 +188,7 @@
 | [0682-baseball-game](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2169-count-operations-to-obtain-zero) |
@@ -302,6 +304,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Merge Sort
 |  |
 | ------- |
@@ -330,6 +333,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/navyaaa24/LEETCODE-SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
